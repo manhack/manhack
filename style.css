@@ -1,0 +1,133 @@
+/*
+ * Correction des styles HTML par defaut
+ */
+
+.structure {
+	display: none;
+}
+h1,h2,h3,h4 {
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-size: 100%;
+	font-weight: normal;
+}
+
+/*
+ * Styles http://juicystudio.com/article/ecmascriptmenu.php
+*/
+
+#mainnav, #mainnav ul
+{
+    padding: 0em 0em;
+    margin-left: 0;
+    list-style-type: none;
+}
+
+#mainnav li
+{
+    padding: 0em 0em;
+    margin-left: 0;
+    list-style-type: none;
+}
+
+
+/*
+ * Styles generaux
+ */
+
+/* bien regler la marge (bugs IE) */
+body { background: white; margin: 10px; }
+a { text-decoration: none; color: #ff3300; border-width: 0px; }
+a:hover { text-decoration: none; color: #303030; background: #e8e8e8; border-width: 0px; }
+a.spip_out { text-decoration: none; color: #a02020; }
+a.spip_in { text-decoration: none; color: #2020a0; }
+img { border-width: 0; }
+
+
+.chapo {
+	font-family: Helvetica, Arial;
+	font-weight: bold;
+	text-align: justify;
+	font-size: 105%;
+}
+.texte {
+	font-family: Helvetica, Arial;
+	text-align: justify;
+	font-size: 87%;
+}
+.small {
+	font-family: Arial;
+	text-align: justify;
+	font-size: 75%;
+}
+.bigger {
+	font-family: Arial;
+        font-size: 101%;
+}
+p.spip {
+	font-family: Helvetica, Arial;
+}
+.ps {
+	font-family: Helvetica, Arial;
+	text-align: left;
+	font-size: 85%;
+}
+.notes {
+	font-family: Helvetica, Arial;
+	text-align: left;
+	font-size: 80%;
+}
+
+
+/*
+ * Ici les styles pour le contenu
+ */
+
+.contenu h1,h2 {
+	font-size: 120%;
+	font-weight: bold;
+}
+.contenu h1,h2.titre-extrait {
+	font-size: 160%;
+	font-weight: bold;
+}
+.contenu h1,h2.titre-texte {
+	font-size: 190%;
+	font-weight: bold;
+}
+.contenu .surtitre {
+	font-size: 110%;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+.contenu .detail {
+	font-size: 80%;
+	color: #303030;
+}
+.extrait {
+	border: groove 2px #a0a0a0;
+	padding: 1em;
+	font-size: 85%;
+}
+
+
+/*
+ * Disposition a l'ecran
+ */
+
+#principal {
+	font-family: Helvetica, Arial;
+}
+
+#plan {
+	font-family: Helvetica, Arial;
+}
+
+#navigation {
+	font-family: Helvetica, Arial;
+}
+
+.encart {
+	font-family: Helvetica, Arial;
+}
+
