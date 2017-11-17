@@ -14,7 +14,6 @@ if ($setdefault)
 
 ?>
 
-
     <link rel="stylesheet" href="style.css" type="text/css">
     
 <script type="text/javascript" src="textsizer.js">
@@ -37,18 +36,16 @@ typo <a href="javascript:ts('body',1)">++</a>&gt;|&lt;<a href="javascript:ts('bo
 
 <p>
 <form style="padding:0px" name="f">
-<input type="text" value="URL / mots-clefs"  onFocus="this.value=''" onblur="check()" name="t"
-size="9" style="font-size:9px;height:18px;width:169px"  value=""> <br />
-<a href="javascript:go('')" title="Accedez directement a l'URL">go</a>/<a href="javascript:go('encrypted.google.com/search?q=')"
-title="Recherche Google">ogle</a>|<a href="javascript:go('fr.search.yahoo.com/search?p=')" title="Yahoo">Y!</a>|<a href="javascript:go('search.msn.fr/results.aspx?q=')" title="MSNearch">Msn</a>/
-<a href="javascript:go('www.stupidcensorship.com/cgi-bin/nph-surf.cgi/')" title="A quick and easy way to bypass blocking software - StupidCensorship.com/">an</a>|<a href="javascript:go('anonymouse.org/cgi-bin/anon-www.cgi/http://')" title="Anonymouse.org/">on</a>/<a href="javascript:go('www.workfriendly.net/browse/Office2003Blue/')" title="Un navigateur qui ressemble à Word, pour cacher ce que l'on consulte">Boss</a>/
-<!-- <a href="javascript:go('proxify.com/u?http://')" title="Anonymous Proxy - proxify.com/">anon</a> / -->
+<input type="text" value="URL / mots-clefs" onFocus="this.value=''" onblur="check()" name="t" size="9" style="font-size:9px;height:18px;width:169px"  value=""> <br />
+<a href="javascript:go('')" title="Accedez directement a l'URL">go</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=')" title="Disconnect">ogle</a>|<a href="javascript:go('startpage.com/do/search?query=')" title="Start">Start</a>|<a href="javascript:go('www.seeks.fr/search?q=')" title="Seeks">Seeks</a>|<a href="javascript:go('duckduckgo.com/?&kl=fr-fr&q=')" title="DuckDuckGo">Duck</a>|<a href="javascript:go('search.msn.fr/results.aspx?q=')" title="MSNearch">Bing</a>/
+<a href="javascript:go('www.mousematrix.com')" title="A quick and easy way to bypass blocking software - StupidCensorship.com/">an</a>|<a href="javascript:go('anonymouse.org/cgi-bin/anon-www.cgi/http://')" title="Anonymouse.org/">on</a><!-- /<a href="javascript:go('www.workfriendly.net/browse/Office2003Blue/')" title="Un navigateur qui ressemble Ãƒ  Word, pour cacher ce que l'on consulte">Boss</a>/
+<a href="javascript:go('proxify.com/u?http://')" title="Anonymous Proxy - proxify.com/">anon</a> /
 <a href="javascript:go('www.google.fr/search?defl=all&q=define:+')"
-title="Definitions en allemand, anglais, chinois, francais, italien, russe">def</a>/<a
+title="Definitions en allemand, anglais, chinois, francais, italien, russe">def</a> -->/<a
 href="javascript:go('dico.isc.cnrs.fr/dico/tr/chercher_en?r=')"
-title="Dictionnaire anglais-français du CNRS">en&gt;</a>|<a
+title="Dictionnaire anglais-franÃƒÂ§ais du CNRS">en&gt;</a>|<a
 href="javascript:go('dico.isc.cnrs.fr/dico/tr/chercher_fr?r=')"
-title="Dictionnaire français-anglais du CNRS">&lt;fr</a>|<a
+title="Dictionnaire franÃƒÂ§ais-anglais du CNRS">&lt;fr</a>|<a
 href="javascript:go('www.faganfinder.com/translate/?perform=translate&from=en&to=fr&res=goif&t=')"
 title="Fagan Finder's Translation Wizard - faganfinder.com/translate/">int</a>
 <!-- / <a href="javascript:go('' + '/robots.txt')">R</a> 
@@ -69,8 +66,8 @@ Moteurs de recherche
       <li>
   
 &nbsp;
-<a href="javascript:go('encrypted.google.com/search?q=')" title="Google en VF">Google</a> 
-(<a href="javascript:go('encrypted.google.com/search?ned=us&q=')" title="Google en VO">en</a>|<a href="javascript:go('www.google.com/trends?q=')" title="See what the world is searching for">trends</a>|<a href="javascript:go('thelocust.org/projects/instantrss/instantrss.php?url=http://upcome.com/goorss/search.php?query=')" title="GooRSS - Google + RSS">rss</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=0&query=')">Auj'</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=1&query=')">-1j</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=7&query=')">-7j</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=30&query=')">-30j</a>)
+<a href="javascript:go('google.fr/search?q=')" title="Google en VF">Google</a> 
+(<a href="javascript:go('google.com/search?ned=us&q=')" title="Google en VO">en</a>|<a href="javascript:go('www.google.com/trends?q=')" title="See what the world is searching for">trends</a>|<a href="javascript:go('thelocust.org/projects/instantrss/instantrss.php?url=http://upcome.com/goorss/search.php?query=')" title="GooRSS - Google + RSS">rss</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=0&query=')">Auj'</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=1&query=')">-1j</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=7&query=')">-7j</a>|<a href="javascript:go('www.researchbuzz.com/cgi-bin/goofresh.cgi?datemod=30&query=')">-30j</a>)
 <!-- http://www.freshgoo.com/nsindex.php
 http://www.researchbuzz.org/archives/001405.shtml
 <a href="javascript:go('labs.google.com/cgi-bin/webquotes?q=')" title="Citations recensees par Google">Quotes</a> --> / 
@@ -199,11 +196,17 @@ of over 11 Billion pages dating way back to 1996 --> /
       <li>
  
 &nbsp; 
-Google <a href="javascript:go('www.google.fr/search?q=cache:')" title="Page archivee (cache) par Google">cache</a> / 
-<a href="javascript:go('www.google.fr/search?strip=1&q=cache:')" title="Page archivee (cache) par Google, sans image ni script">plain</a> / 
-<a href="javascript:go('www.google.fr/search?q=site:')" title="Liste des pages referencees par Google">site</a> / 
-<a href="javascript:go('www.google.com/search?q=filetype%3Adoc+site:')" title="Fichiers .doc recenses par Google sur le site">.doc</a>|<a href="javascript:go('www.google.com/search?q=filetype%3Apdf+site:')" title="Fichiers .pdf recenses par Google sur le site">.pdf</a> / 
-<a href="javascript:go('docs.google.com/viewer?url=')" title="Viewer">view</a>
+Google <a href="javascript:go('http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2F')" title="Page archivee (cache) par Google">cache</a> / 
+<a href="javascript:go('http://webcache.googleusercontent.com/search?strip=1&q=cache:http://')" title="Page archivee (cache) par Google, sans image ni script">plain</a> / 
+<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=site:')" title="Liste des pages referencees par Google">site</a> / 
+<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=ext:doc+|+ext:docx+|+ext:odt+|+ext:pdf+|+ext:rtf+|+ext:sxw+|+ext:psw+|+ext:ppt+|+ext:pptx+|+ext:pps+|+ext:cvs+site:')" title="Fichiers .doc recenses par Google sur le site">.ext</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=intitle:index.of+site:')" title="Index of">Index of</a>
+<br />
+      
+      </li>
+      <li>
+ 
+&nbsp; <!--https://pentest-tools.com/reconnaissance/google-hacking-->
+<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=ext:xml+|+ext:conf+|+ext:cnf+|+ext:reg+|+ext:inf+|+ext:rdp+|+ext:cfg+|+ext:txt+|+ext:ora+|+ext:ini+site:')" title="Index of">Vuln</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=ext:sql+|+ext:dbf+|+ext:mdb+site:')" title="Index of">Database</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=+ext:log+site:')" title="Index of">Log</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=+ext:bkf+|+ext:bkp+|+ext:bak+|+ext:old+|+ext:backup+site:')" title="Index of">Bak</a>|<a href="javascript:go('search.disconnect.me/searchTerms/search?start=nav&option=Web&query=+inurl:login+site:')" title="Index of">Login</a>
 <br />
       
       </li>
@@ -326,13 +329,13 @@ W3 : <a href="javascript:go('validator.w3.org/check?uri=http://')" title="W3C Ma
 <!-- Dicos -->
 
   <li>
-Dictionnaires
+Dictionnaires *
     <ul>
       <li>
 &nbsp;
-<a href="javascript:go('translate.google.com/translate_t?langpair=en%7Cfr&hl=fr&ie=UTF-8&oe=UTF-8&text=')" title="Google Translation">Goo</a>|<a href="javascript:go('www.google.fr/search?defl=all&q=define:+')" title="Definitions en allemand, anglais, chinois, francais, italien, russe - google.fr/search?q=define:+">def</a> /
+<a href="javascript:go('dictionnaire.reverso.net/francais-definition/Ã‚ ')" title="Reverso">Reverso</a> /
 <a href="javascript:go('atilf.atilf.fr/dendien/scripts/fast.exe?')" title="Tresor de la Langue Francaise informatise- atilf.atilf.fr/">TLF</a> / 
-<a href="javascript:go('francois.gannaz.free.fr/Littre/xmlittre.php?requete=')" title="Version en ligne du dictionnaire Littre de 1872-1877 - francois.gannaz.free.fr/Littre/">Littre</a> <!-- cf 2 www.lesensdesmots.com --> / 
+<a href="javascript:go('littre.reverso.net/dictionnaire-francais/definition/')" title="Version en ligne du dictionnaire Littre de 1872-1877">Littre</a> <!-- cf 2 www.lesensdesmots.com --> / 
 <a href="javascript:go('lav.mediadico.com/mediadicolav/asp/dicoweb.asp?nbd=1&emot=')" title="Definitions, synonymes, conjugaisons, Francais/Anglais - lav.mediadico.com/mediadicolav/asp/dicoweb.asp">Dicoweb</a> / 
 <a href="javascript:go('fr.wikipedia.org/w/wiki.phtml?search=')">Wikipedia</a> (<a href="javascript:go('wikipedia.org/w/wiki.phtml?search=')">en</a>|<a href="javascript:go('www.qwika.com/find-fr/')" title="Recherche et traductions sur plus de 1000 wikipedias">intl</a>)
 <br />
@@ -342,7 +345,7 @@ Dictionnaires
 
 &nbsp;
 Ortho <a href="javascript:go('www.sdv.fr/cgi/orthonet/orthonet?mot=')" title="Orthonet, banque de donnee du Conseil international de la langue fran?ise - www.sdv.fr/orthonet/">1</a>|<a href="javascript:go('www.interactive.fr/gc/verify_.pl?verifie=v%E9rifier&lang=francais&text=')" title="WEBGC est un correcteur orthographique de requetes de moteurs de recherche - interactive.fr/gc/verify_.pl">2</a> / 
-Syn <a href="javascript:go('dico.isc.cnrs.fr/dico/fr/chercher?r=')" title="Dictionnaire des synonymes francais - dico.isc.cnrs.fr/dico/fr/chercher">1</a>|<a href="javascript:go('elsap1.unicaen.fr/cgi-bin/trouvebis2?refer=%23&requete=')">2</a> / 
+Syn <a href="javascript:go('dico.isc.cnrs.fr/dico/fr/chercher?r=')" title="Dictionnaire des synonymes francais - dico.isc.cnrs.fr/dico/fr/chercher">1</a>|<a href="javascript:go('www.crisco.unicaen.fr/des/synonymes/')">2</a> / 
 <a href="javascript:go('www.verbix.com/webverbix/go.asp?D1=3&H1=103&T1=')" title="On-line verb conjugator in 155 languages - verbix.com/">Conjug.</a> / 
 <a href="javascript:go('atilf.atilf.fr/gsouvay/scripts/feminin.exe?PAS_A_PAS=1,7?TYPE_RECHERCHE=0?ENTREE==')">Fem</a> / 
 <a href="javascript:go('www.acronymfinder.com/af-query.asp?acronym=')" title="351 000+ acronyms, abbreviations and initialisms - acronymfinder.com/">Acro</a>|<a href="javascript:go('www.ucc.ie/cgi-bin/uncgi/acronym?')" title="University College Cork's acronym server - ucc.ie/cgi-bin/acronym">Nym</a> 
@@ -353,10 +356,11 @@ Syn <a href="javascript:go('dico.isc.cnrs.fr/dico/fr/chercher?r=')" title="Dicti
   
 &nbsp;
 <a href="javascript:go('www.proz.com/kudoz?sp=ks&keyword_kudoz=')" title="KudoZ network provides a framework for translators - proz.com/kudoz">Kudoz</a> / 
-<a href="javascript:go('europa.eu.int/eurodicautom/Controller?CURRENTSCREEN=EXPERT2&source=S&target=FR&display_term=HITALL&query=')" title="European Terminology Database - europa.eu.int/eurodicautom/">&euro;dicautom</a>
-<!--Voir aussi New European Terminology Database https://iate.cdt.eu.int:443/iatenew/consultation/search/basic.jsp--> / 
+<a href="javascript:go('eurovoc.europa.eu/drupal/?q=fr/search&cl=en&page=1&text=')" title="European Terminology Database - europa.eu.int/eurodicautom/">&euro;rovoc</a> / 
+<a href="javascript:go('iate.europa.eu/iatediff/SearchByQuery.do?method=search&sourceLanguage=en&&targetLanguages=fr&domain=0&matching=&typeOfSearch=s&query=')" title="InterActive Terminology for Europe">Iate</a> / 
+<!--Voir aussi New European Terminology Database https://iate.cdt.eu.int:443/iatenew/consultation/search/basic.jsp-->
 <a href="javascript:go('fr.search.news.yahoo.com/search/fineduc_fr?p=')">Finance</a> /
-<a href="javascript:go('w3.oqlf.gouv.qc.ca/BDL/gabarit_bdl.asp?T1=')" title="Banque de donnee linguistique - www.oqlf.gouv.qc.ca/ressources/bdl.html">Linguist.</a> / 
+<a href="javascript:go('bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?&T3.x=12&T3.y=18&T1=')" title="Banque de depannage linguistique - www.oqlf.gouv.qc.ca/ressources/bdl.html">Linguist.</a> / 
 <a href="javascript:go('www.x-recherche.com/cgi-bin/trouve.cgi?name=languefrancaise&MOTS=')" title="Langue francaise : FAQ, S.O.S. depannage, reponse a vos questions, dossiers - langue-fr.net/">Langue-fr</a> 
 <br />
 
@@ -368,25 +372,23 @@ Syn <a href="javascript:go('dico.isc.cnrs.fr/dico/fr/chercher?r=')" title="Dicti
 <a href="javascript:go('www.commentcamarche.net/search/search.php3?Mot=')">CCM</a> /
 Dico <a href="javascript:go('www.dicofr.com/cgi-bin/n.pl/dicofr/find/')" title="Dictionnaire de l'informatique et de l'internet - dicofr.com">Fr</a>|<a href="javascript:go('www.dicodunet.com/rechercher.php?q=')" title="Dictionnaire en ligne collaboratif sur les e-technologies - dicodunet.com/">duNet</a> / 
 <a href="javascript:go('fr.wiktionary.org/wiki/')" title="Wiktionnaire, dictionnaire libre et universel - fr.wiktionary.org/">Wiktionary</a> / 
-<a href="javascript:go('www.alaide.com/dico.php?q=')" title="Dictionnaire de l'informatique, du multimedia et des nouvelles technologies - alaide.com/dico.php">aLaide</a>
 <br />
 
       </li>
       <li>
 
 &nbsp;
-<a href="javascript:go('www.info-definition.com/')" title="Définition, conjugaison, traduction de mots">InfoDef</a> / 
-<a href="javascript:go('www.criter.dglf.culture.gouv.fr/pls/DGPB/rechercher.frame_res_fiches?action=Consulter&terme=')" title="Termes recommandés par la Commission générale de terminologie et de néologie">Terminologie</a> / 
-<a href="javascript:go('www.fautedefrappe.fr/cgi-bin/typotool/typotool/?cbIncludeWord=on&cbAdditionalResult=on&submit=Recherche&submit=submit&tSearchWord=')" title="Fautes de frappe">Fautes</a> / 
-<a href="javascript:go('www.plusdemots.com/mot/')" title="Trouvez des mots du dictionnaire pour les mots croisés, les mots du code et les jeux du mots, même Scrabble® et Upwords®">+deMots</a> / 
-<a href="javascript:go('www.dafont.com/theme.php?cat=113&page=1&nb_ppp_old=50&nb_ppp=50&psize=m&classt=pop&text=')" title="Téléchargez des polices de caractères, créez des titres & logos">Typos</a> 
+<a href="javascript:go('www.info-definition.com/')" title="DÃƒÂ©finition, conjugaison, traduction de mots">InfoDef</a> / 
+Terminologie <a href="javascript:go('franceterme.culture.fr/FranceTerme/recherche.html?TERME=')" title="Termes recommandes par la Commission gÃƒÂ©nÃƒÂ©rale de terminologie et de neologie">fr</a>|<a href="javascript:go('gdt.oqlf.gouv.qc.ca/resultat.aspx?MotClef=&sMotClefTraite=&sMotClef=&sPriNomLang=&sSecNomLang=&iPointAcces=1a2q5w1&terme=')" title="Grand dictionnaire terminologique - GDT">qc</a> / 
+<a href="javascript:go('www.plusdemots.com/mot/')" title="Trouvez des mots du dictionnaire pour les mots croisÃƒÂ©s, les mots du code et les jeux du mots, mÃƒÂªme ScrabbleÃ‚Â® et UpwordsÃ‚Â®">+deMots</a> / 
+<a href="javascript:go('www.dafont.com/theme.php?cat=113&page=1&nb_ppp_old=50&nb_ppp=50&psize=m&classt=pop&text=')" title="TÃƒÂ©lÃƒÂ©chargez des polices de caractÃƒÂ¨res, crÃƒÂ©ez des titres & logos">Typos</a> 
 <br />
 
       </li>
       <li>
 
 &nbsp;
-<a href="javascript:go('termsciences.inist.fr/services/pxxo/aIndex/aRechercher/classique.html?aGrilleClassique=actualiser&prf=1lng=fr&qry=')" title="TermSciences, portail terminologique du CNRS">TermSciences</a> / 
+<a href="javascript:go('www.termsciences.fr/-/Index/Rechercher/Classique/Naviguer/Resultats/?aGrilleClassique=actualiser&lng=fr&qry=')" title="TermSciences, portail terminologique du CNRS">TermSciences</a> / 
 <a href="javascript:go('www.etymonline.com/index.php?term=')" title="Online Etimology Dictionary - etymonline.com/">Etym.</a> / 
 <a href="javascript:go('codeflux.com/dict/?query=')">Dict</a> / 
 <!-- FOLDOC - Free On-Line Dictionary Of Computing & The Jargon File -->
@@ -399,9 +401,10 @@ Dico <a href="javascript:go('www.dicofr.com/cgi-bin/n.pl/dicofr/find/')" title="
       <li>
 
 &nbsp; 
+<a href="javascript:go('www.bing.com/translator/?from=en&to=fr&text=')" title="Bing Translator">Translator</a> / 
 <a href="javascript:go('www.allwords.com/query.php?SearchType=2&goquery=Find+it%21&Language=FRA&NLD=1&FRA=1&DEU=1&ITA=1&ESP=1&Keyword=')" title="English Dictionary With Multi-Lingual Search & Translation - allwords.com">AllWords</a> / 
 <a href="javascript:go('www.babylon.com/definition/')" title="A database of over 1,300 dictionaries, encyclopedias and glossaries in 50 languages">Babylon</a> / 
-<a href="javascript:go('www.wikiseek.com/results.php?q=')" title="A better way to search Wikipedia">Wikiseek</a> / 
+<a href="javascript:go('www.systranet.com/fr/fr/dictionary/english-french/this')" title="Systranet">Systranet</a> / 
 <a href="javascript:go('www.wordreference.com/fren/')" title="Free online translation dictionaries, plus suggestions">WordRef.</a> 
 <br>
       
@@ -411,8 +414,8 @@ Dico <a href="javascript:go('www.dicofr.com/cgi-bin/n.pl/dicofr/find/')" title="
 &nbsp;
 <a href="javascript:go('www.infoplease.com/search.php3?query=')">Infoplease</a> / 
 <a href="javascript:go('whatis.techtarget.com/wsearchResults/?query=')">Whatis</a> / 
-<a href="javascript:go('babelplex.com/google?edition=fr&langpair=fr_en&q=')" title="Babelplex searches the web in 24 International Google Engines">Babelplex</a> / 
-<a href="javascript:go('wordnet.princeton.edu/perl/webwn?s=')" title="A lexical database for the English language - wordnet.princeton.edu/">WordNet</a> /
+<a href="javascript:go('translate.google.com/?hl=fr#en|fr|')" title="Babelplex searches the web in 24 International Google Engines">Babelplex</a> / 
+<a href="javascript:go('wordnetweb.princeton.edu/perl/webwn?s=')" title="A lexical database for the English language - wordnet.princeton.edu/">WordNet</a> /
 <a href="javascript:go('www.foreignword.com/eureka/ext/linksearch/default.asp?lg=fr&Go=Search&q=')" title="Database of 4000+ dictionaries, glossaries and lexicons - foreignword.com/Tools/">Foreign</a>
 <br>
 
@@ -454,7 +457,7 @@ JO : <a href="javascript:go('www.legifrance.gouv.fr/rechExpTexteJorf.do?init=&fr
       <li>
 
 &nbsp;
-<a href="javascript:go('www.rollyo.com/search.html?sid=5943&q=')" title="Textes de loi français - via rollyo.com/">Lois</a> / 
+<a href="javascript:go('www.rollyo.com/search.html?sid=5943&q=')" title="Textes de loi franÃƒÂ§ais - via rollyo.com/">Lois</a> / 
 Google 
 <a href="javascript:go('www.google.fr/search?q=site%3Apremier-ministre.gouv.fr+')">p-m</a>.<a href="javascript:go('www.google.fr/search?q=site%3Ainterieur.gouv.fr+')">int</a>.def<a href="javascript:go('www.google.fr/search?q=site%3Adefense.gouv.fr+')">1</a>/<a href="javascript:go('www.defense.gouv.fr/sites/ema/search?From=search_form&Description=&Language=fr&source=deux&SearchableText=')" title="Moteur de recherche interne et externe a defense.gouv.fr - defense.gouv.fr">2</a>.<a href="javascript:go('www.google.fr/search?q=site%3Aagriculture.gouv.fr+')">agri</a>.<a href="javascript:go('www.google.fr/search?q=site%3Aculture.gouv.fr+')">cult</a>.<a href="javascript:go('www.google.fr/search?q=site%3Agouv.fr+')">gouv.fr</a> 
 <br>
@@ -676,10 +679,10 @@ EU:<a href="javascript:go('www.euractiv.com/Search?simple=true&combine=and&term=
 
 &nbsp; 
 <a href="javascript:go('www.wikio.fr/search=')" title="Moteur de recherche d'informations bas&eacute; sur les m&eacute;dias, les blogs et les publications des membres">Wikio</a> / 
-<a href="javascript:go('actu.voila.fr/recherche.html?kw=')" title="Moteur de recherche d'actualités de Voila">Voila</a> / 
+<a href="javascript:go('actu.voila.fr/recherche.html?kw=')" title="Moteur de recherche d'actualitÃƒÂ©s de Voila">Voila</a> / 
 <!-- <a href="javascript:go('fr.newzadig.com/search?q=')" title="Moteur de recherches d'informations sous forme de clusters de mots-cl&eacute;s">NewZadig</a> /
 <a href="javascript:go('www.lexpress.fr/recherche/search.asp?sortBy=date&q=')" title="L'Express">Express</a> /  -->
-<a href="javascript:go('www.rollyo.com/search.html?sid=6356&q=')" title="Newsmagazines français - via rollyo.com/">Pressefr</a> / 
+<a href="javascript:go('www.rollyo.com/search.html?sid=6356&q=')" title="Newsmagazines franÃƒÂ§ais - via rollyo.com/">Pressefr</a> / 
 <a href="javascript:go('recherche.nouvelobs.com/browse.php?sita=1&q=')" title="Nouvel Observateur">N.Obs</a> / 
 <a href="javascript:go('www.20minutes.fr/recherche.php?s=tous&z=article&q=')" title="20minutes">20'</a> 
 <br />
@@ -1106,7 +1109,7 @@ Corp.
       <li>
 
 &nbsp;
-<a href="javascript:go('www.theofficialboard.fr/company/search?option=companyName&q=')" title="Découvrez les organigrammes des 20 000 plus grandes entreprises mondiales">TheOfficialBoard</a> / 
+<a href="javascript:go('www.theofficialboard.fr/company/search?option=companyName&q=')" title="DÃƒÂ©couvrez les organigrammes des 20 000 plus grandes entreprises mondiales">TheOfficialBoard</a> / 
 <!-- <a href="javascript:go('www.fortune.com/fortune/search?query=')">Fortune</a> / 
 <a href="javascript:go('search.ft.com/search/totalSearch_Form.html?vsc_query=')">FT</a> / 
 <a href="javascript:go('www.funds-sp.com/globalfunds/search/dsp_Ratings_Search.cfm?q=Ratings-en&s=')">S&P</a> / -->
@@ -1174,8 +1177,8 @@ Data *
 &nbsp; 
 <a href="javascript:go('www.statistique-publique.fr/index.php?php_action=RECHERCHE_texteLibre&TexteLibreSelect=')" title="Le portail de la statistique publique">StatistiquePublique</a> |
 <a href="javascript:go('www.insee.fr/fr/publications-et-services/default.asp?page=services%2Frecherche.htm&cx=011031962541167842879%3Aradlwwkh1lw&cof=FORID%3A9&ie=ISO-8859-1&q=')" title="">Insee</a> |
-<a href="javascript:go('www.nosdonnees.fr/package?q=')" title="Un registre libre de jeux de données">NosDonnées</a> |
-<a href="javascript:go('www.data-publica.com/WebSite_viewQuickSearchResultList?reset:int=1&list_style=search&your_search_text=france&ignore_hide_rows:int=1&sphinxse_query=')" title="Annuaire des données publiques disponibles en France">DataPublica</a><br />
+<a href="javascript:go('www.nosdonnees.fr/package?q=')" title="Un registre libre de jeux de donnÃƒÂ©es">NosDonnÃƒÂ©es</a> |
+<a href="javascript:go('www.data-publica.com/WebSite_viewQuickSearchResultList?reset:int=1&list_style=search&your_search_text=france&ignore_hide_rows:int=1&sphinxse_query=')" title="Annuaire des donnÃƒÂ©es publiques disponibles en France">DataPublica</a><br />
 
 &nbsp; 
 <a href="javascript:go('opendatasearch.org/?q=')" title="">OpenData</a> |
@@ -1241,7 +1244,7 @@ Biz'
 &nbsp; 
 <a href="javascript:go('fr.finance.yahoo.com/convertisseur/convert?from=USD&to=EUR&amt=')" title="Convertisseur de devises - fr.finance.yahoo.com">Change</a> / 
 <a href="javascript:go('search-desc.ebay.fr/search/search.dll?sotextsearched=2&amp;query=')">eBay</a>|<a href="javascript:go('annonces.ebay.fr/search?fln=0&fromAuctions=true&kw=')" title="Kijiji">an</a> / 
-<a href="javascript:go('www.priceminister.com/navigation?action=search&amp;keyword=')">PriceMinister</a> / 
+<a href="javascript:go('www.priceminister.com/s/')">PriceMinister</a> / 
 <a href="javascript:go('www.amazon.fr/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=')" title="Amazon">Amazon</a> 
 
 <br>
@@ -1263,7 +1266,7 @@ Biz'
 
 &nbsp;
 <a href="javascript:go('www.acheter-moins-cher.com/asp/annuaire.asp?t=4&kwd=')" title="Comparateur de prix independant - acheter-moins-cher.com/">-cher</a> / 
-<a href="javascript:go('www.twenga.fr/search.php?q=')" title="Comparateur 'neutre', ne faisant pas payer les commerçants">Twenga</a> /
+<a href="javascript:go('www.twenga.fr/search.php?q=')" title="Comparateur 'neutre', ne faisant pas payer les commerÃƒÂ§ants">Twenga</a> /
 <a href="javascript:go('www.clubic.com/recherche/recherche.php?textrecherche=')" title="Magazine informatique, comparateur de prix, etc. - clubic.com">Clubic</a> / 
 <a href="javascript:go('www.rue-montgallet.com/prix/75/recherche/?site=all&kw=')">Montgallet</a> / 
 <a href="javascript:go('www.pricerunner.fr/recherche?q=')" title="Comparez avant d'acheter - pricerunner.fr/">PriceRunner</a>
@@ -1419,10 +1422,10 @@ Etc.
       <li>
 
 &nbsp; 
-<a href="javascript:go('www.vidal.fr/recherchemedicament.asp?mot=')" title="L'information de référence sur les produits de santé - vidal.fr/">Vidal</a> / 
-Doctissimo : <a href="javascript:go('www.doctissimo.fr/asp/medicaments_def/visu_resultat_recherche.asp?medicament=')" title="Guide des médicaments de Doctissimo : produits, molécules, principes actifs, classes thérapeutiques - doctissimo.fr/html/medicaments/medicaments.htm">Médocs</a>|<a href="javascript:go('recherche.doctissimo.fr/sitesearch/consult5/index.php?l=fr&collid=10000&mot=')" title="Doctissimo.fr, site d'information médicale - doctissimo.fr/">Art.</a> / 
-<a href="javascript:go('www.medisite.fr/recherche.php3?recherche=')" title="L'internet au service de la santé - medisite.fr/">Medisite</a> / 
-<a href="javascript:go('www.searchmedica.fr/searchmedica.fr/EUISearch.do?qgeneral=duodenum&searchType=defLink&q=')" title="Le moteur de recherche des médecins">SearchMedica</a> /
+<a href="javascript:go('www.vidal.fr/recherchemedicament.asp?mot=')" title="L'information de rÃƒÂ©fÃƒÂ©rence sur les produits de santÃƒÂ© - vidal.fr/">Vidal</a> / 
+Doctissimo : <a href="javascript:go('www.doctissimo.fr/asp/medicaments_def/visu_resultat_recherche.asp?medicament=')" title="Guide des mÃƒÂ©dicaments de Doctissimo : produits, molÃƒÂ©cules, principes actifs, classes thÃƒÂ©rapeutiques - doctissimo.fr/html/medicaments/medicaments.htm">MÃƒÂ©docs</a>|<a href="javascript:go('recherche.doctissimo.fr/sitesearch/consult5/index.php?l=fr&collid=10000&mot=')" title="Doctissimo.fr, site d'information mÃƒÂ©dicale - doctissimo.fr/">Art.</a> / 
+<a href="javascript:go('www.medisite.fr/recherche.php3?recherche=')" title="L'internet au service de la santÃƒÂ© - medisite.fr/">Medisite</a> / 
+<a href="javascript:go('www.searchmedica.fr/searchmedica.fr/EUISearch.do?qgeneral=duodenum&searchType=defLink&q=')" title="Le moteur de recherche des mÃƒÂ©decins">SearchMedica</a> /
 <br />
 
 <br>
@@ -1498,7 +1501,7 @@ Images :  <br />
 
 &nbsp; 
 <a href="javascript:go('web.artprice.com/artistdetails.aspx?artist=')" title="The world leader in art market information">ArtPrice</a> / 
-<a href="javascript:go('www.culture.fr/recherche?typeSearch=collection&SearchableText=')" title="14 bases documentaires, 2M de données dont 1M d'images - recherche.culture.fr">Culture</a> / 
+<a href="javascript:go('www.culture.fr/recherche?typeSearch=collection&SearchableText=')" title="14 bases documentaires, 2M de donnÃƒÂ©es dont 1M d'images - recherche.culture.fr">Culture</a> / 
 <a href="javascript:go('www.phototheque.org/search.html?search_keywords=')" title="Phototheque (libre de droit) du mouvement social - phototheque.org/">Phototheque</a>
       
 <br />
@@ -1532,8 +1535,8 @@ Vid&eacute;o : <br />
 &nbsp;
 <a href="javascript:go('www.diffusion.ens.fr/index.php?res=search&stype=default&squery=')" title="Diffusion des savoirs de l'Ecole normale sup&eacute;rieure - diffusion.ens.fr/">ENS</a> / 
 <a href="javascript:go('www.canalc2.tv/recherche.asp?mots=')" title="WebTV de l'enseignement superieur et de la recherche - canal2c.tv">Canal U</a> / 
-<a href="javascript:go('www.ina.fr/archivespourtous/index.php?action=ft&full=')" title="Recherchez dans plus de 100 000 émissions TV & radio">Ina</a> 
-<a href="javascript:go('www.ina.fr/outils/recherche/index.php?motClef=')">(²)</a> / 
+<a href="javascript:go('www.ina.fr/archivespourtous/index.php?action=ft&full=')" title="Recherchez dans plus de 100 000 ÃƒÂ©missions TV & radio">Ina</a> 
+<a href="javascript:go('www.ina.fr/outils/recherche/index.php?motClef=')">(Ã‚Â²)</a> / 
 <a href="javascript:go('www.putfile.com/search.php?txtKeywords=')" title="A FREE digital media hosting service">PutFile</a> / 
 <a href="javascript:go('www.dailymotion.com/search/')" title="Discover other's videos, using tags">DailyMotion</a> 
 
@@ -1769,7 +1772,7 @@ Dans les blogs
 <a href="http://manhack.net/wiki/index.php?page=Administrativa (URL)" target="_content">Administrativa (URL)</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Administrativa (URL)&action=edit" target="_content">&nbsp;</a><br />
 <a href="http://manhack.net/wiki/index.php?page=Dictionnaires" target="_content">Dictionnaires</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Dictionnaires&action=edit" target="_content">&nbsp;</a><br />
 <a href="http://manhack.net/wiki/index.php?page=References" target="_content">References</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=References&action=edit" target="_content">&nbsp;</a><br />
-<a href="http://manhack.net/wiki/index.php?page=Actualit%E9s" target="_content">Actualités</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Actualit%E9s&action=edit" target="_content">&nbsp;</a><br />
+<a href="http://manhack.net/wiki/index.php?page=Actualit%E9s" target="_content">ActualitÃƒÂ©s</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Actualit%E9s&action=edit" target="_content">&nbsp;</a><br />
 <a href="http://manhack.net/wiki/index.php?page=E-mails" target="_content">E-mails</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=E-mails&action=edit" target="_content">&nbsp;</a><br />
 <a href="http://manhack.net/wiki/index.php?page=Blogs" target="_content">Blogs</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Blogs&action=edit" target="_content">&nbsp;</a><br />
 <a href="http://manhack.net/wiki/index.php?page=Corp." target="_content">Corp.</a>&nbsp;&nbsp;&nbsp;<a href="http://manhack.net/wiki/index.php?page=Corp.&action=edit" target="_content">&nbsp;</a><br />
